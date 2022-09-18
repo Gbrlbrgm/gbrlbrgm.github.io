@@ -1,0 +1,17 @@
+.Footer {
+  background-color: #1B357E;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  text-align: center;
+}
+
+.Title {
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.6;
+  letter-spacing: 0.0075em;
+  padding: 0;
+}

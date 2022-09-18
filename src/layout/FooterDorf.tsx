@@ -7,14 +7,12 @@ import Button from '@mui/material/Button';
 import IconButton from '@mui/material/IconButton';
 import HelpIcon from '@mui/icons-material/Help';
 import MenuIcon from '@mui/icons-material/Menu';
-import "./AppBarDorf.css"
+import "./FooterDorf.css"
 
-export default function AppBarDorf() {
+export default function FooterDorf() {
   return (
-    <div className="Header">
-      <MenuIcon className="Icon" />
+    <div className="Footer">
       <h6 className="Title">DORF</h6>
-      <HelpIcon className="Icon" />
     </div>
   );
 }

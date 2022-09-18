@@ -1,0 +1,23 @@
+.Header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #1B357E;
+    padding: 10px;
+}
+
+.Title {
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.6;
+    letter-spacing: 0.0075em;
+    padding: 0;
+}
+
+.Icon {
+    font-size: 2rem;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
