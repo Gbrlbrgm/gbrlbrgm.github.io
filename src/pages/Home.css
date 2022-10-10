@@ -4,4 +4,6 @@
     box-sizing: border-box;
 }
 
-
+div {
+    padding-bottom: 64px;
+}
